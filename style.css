@@ -1,0 +1,101 @@
+h1{
+    background-color: black;
+    color: white;
+}
+.box1 {
+    height: 300px;
+    width: 300px;
+    border: 3px dashed red;
+    margin-left: 30px;
+}
+
+#ptag {
+    background-color: chartreuse;
+    padding: 50px 60px;
+}
+
+.box2 {
+    height: 300px;
+    width: 300px;
+    border: 5px solid red;
+    margin-top: 20px;
+    padding: 20px;
+}
+
+.box3 {
+    height: 300px;
+    width: 300px;
+    border: 5px solid yellow;
+    margin-top: 20px;
+    margin-left: 20px;
+    padding: 0px 20px;
+    outline-width: 5px;
+    outline-style: dashed;
+    outline-color: #060265;
+    outline-offset: 10px;
+}
+
+.box4 {
+    color: white;
+    height: 300px;
+    width: 300px;
+    border: 5px solid yellow;
+    margin-top: 20px;
+    margin-left: 20px;
+    padding: 0px 20px;
+    outline-width: 5px;
+    outline: 5px dashed blue;
+    outline-offset: 10px;
+}
+
+#ptag2 {
+    background-color: black;
+    text-align: justify;
+    text-align-last: justify;
+}
+
+.box5 {
+
+    height: 300px;
+    width: 300px;
+    border: 5px solid yellow;
+    margin-top: 20px;
+    margin-left: 20px;
+    padding: 0px 20px;
+    outline-width: 5px;
+    outline: 5px dashed blue;
+    outline-offset: 10px;
+}
+#p1 {
+    color: #fff;
+    padding: 5px;
+    direction: ltr;
+    border: 2px solid yellow;
+    background-color: darkslateblue;
+    
+    
+}
+#top{
+    vertical-align: top;
+}
+#sup{
+    vertical-align: super;
+}
+#p2 {
+    color: #fff;
+    padding: 5px;
+    direction: rtl;
+    border: 2px solid yellow;
+    background-color: darkslateblue;
+    
+    
+}
+#p3 {
+    color: #fff;
+    padding: 5px;
+    border: 2px solid yellow;
+    background-color: darkslateblue;
+    vertical-align: text-bottom;
+
+
+}
